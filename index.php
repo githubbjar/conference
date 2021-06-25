@@ -46,7 +46,7 @@
             <li><a class="dropdown-item" href="#speakers">Speakers</a></li>
             <li><a class="dropdown-item" href="#venue">Venue</a></li>
             <li><a class="dropdown-item" href="#lodging">Lodging</a></li>
-            <li><a class="dropdown-item" href="#tickets">Reservations</a></li>
+            <li><a class="dropdown-item" href="#tickets">Tickets</a></li>
             <li><a class="dropdown-item" href="#program">Program</a></li>
             <li><a class="dropdown-item" href="https://www.touchstonemag.com/conference/sponsorship.pdf">Sponsorship <img src="pdf-logo-gray.png" /></a></li>
             <li><a class="dropdown-item" href="#contact">Contact</a></li>
