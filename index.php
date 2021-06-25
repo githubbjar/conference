@@ -223,13 +223,13 @@
                           <td>Full access / meals / entire conference</td>
                         </tr>  
                         <tr>
-                          <th scope="row">Early Bird Rate</th>
+                          <th scope="row">N/A&#8212;Early Bird Rate</th>
                           <td>$199</td>
                           <td>September 30</td>
                           <td>Full access / meals / entire conference</td>
                         </tr>
                         <tr>
-                          <th scope="row">Regular Rate</th>
+                          <th scope="row">N/A&#8212;Regular Rate</th>
                           <td>$249</td>
                           <td>October 15</td>
                           <td>Full access / meals / entire conference</td>
@@ -243,25 +243,25 @@
                           <td>Full access / meals / entire conference</td>
                         </tr>
                         <tr>
-                          <th scope="row">Thursday Only</th>
+                          <th scope="row">N/A&#8212;Thursday Only</th>
                           <td>$75</td>
                           <td>October 14</td>
                           <td>Access to single day / no meals</td>
                         </tr>
                         <tr>
-                          <th scope="row">Friday Only</th>
+                          <th scope="row">N/A&#8212;Friday Only</th>
                           <td>$150</td>
                           <td>October 15</td>
                           <td>Access to single day / no meals</td>
                         </tr>
                         <tr>
-                          <th scope="row">Saturday Only</th>
+                          <th scope="row">N/A&#8212;Saturday Only</th>
                           <td>$75</td>
                           <td>October 16</td>
                           <td>Access to single day / no meals</td>
                         </tr>
                         <tr>
-                          <th scope="row">Virtual Access</th>
+                          <th scope="row">N/A&#8212;Virtual Access</th>
                           <td>$100</td>
                           <td>October 16</td>
                           <td>Live-streaming access / all sessions</td>
