@@ -18,6 +18,7 @@
     <meta property="og:title" content="No Neutral Ground: The Cost of Discipleship in a Secular Age"/>
     <meta property="og:description" content="The 2021 Touchstone Conference"/>
     <meta property="og:url" content="https://www.touchstonemag.com/conference/index.php"/>
+    <!--GITHUB https://github.com/githubbjar/conference-->
 
     <title>The 2021 Touchstone Conference</title>
   </head>
