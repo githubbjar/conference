@@ -96,12 +96,13 @@
             <div class="col-sm-4">
                <p class="speaker">Hans Boersma</p> 
                <p class="author-intro">is the Saint Benedict Servants of Christ Chair in Ascetical Theology at Nashotah House Theological Seminary, Wisconsin. His work centers upon the retrieval of a sacramental ontology. His books include <em>Heavenly Participation: The Weaving of a Sacramental Tapestry</em> and, most recently, <em>Five Things Theologians Wish Biblical Scholars Knew. </em>Hans and his wife Linda have five children and thirteen grandchildren. He is a Deacon in the Anglican Church in North America and a contributing editor of <em>Touchstone.</em></p>
-               <p class="past-talks"><a href="https://www.touchstonemag.com/archives/author.php?id=339">&#9658; Articles from <em>Touchstone</em>.</a></p>
+               <p class="past-talks"><a href="https://www.touchstonemag.com/archives/author.php?id=339">&#9658; Articles from this speaker in <em>Touchstone</em>.</a></p>
             </div>
             <div class="col-sm-4">
                 <p class="speaker">Allan Carlson</p>   
                 <p class="author-intro">is the John Howard Distinguished Senior Fellow at the International Organization for the Family. His most recent book is <em>Family Cycles: Strength, Decline &amp; Renewal in American Domestic Life, 1630-2000</em> (Transaction, 2016). He is a senior editor of <em>Touchstone.</em></p>
                 <p class="past-talks"><a href="https://www.touchstonemag.com/conferences/christian-pro-family-governments-allan-carlson.php">&#9658; Talks from past <em>Touchstone </em> conferences.</a></p>
+                <p class="past-talks"><a href="https://www.touchstonemag.com/archives/author.php?id=110">&#9658; Articles from this speaker in <em>Touchstone</em>.</a></p>
             </div>
             <div class="col-sm-2"></div>
         </div>
@@ -114,11 +115,13 @@
 
                 <p class="author-intro">He is a senior editor at <em>The American Conservative,</em> and has written and edited for <em>Touchstone, </em>the <em>New York Post, The Dallas Morning News, National Review,</em> the <em>South Florida Sun-Sentinel,</em> the <em>Washington Times,</em> and the <em>Baton Rouge Advocate.</em> Rod’s commentary has been published in <em>The Wall Street Journal, Commentary, The Weekly Standard,</em> among other publications. </p>
                 <p class="past-talks"><a href="https://www.touchstonemag.com/conferences/st-benedict-rod-dreher.php">&#9658; Talks from past <em>Touchstone </em> conferences.</a></p>
+                <p class="past-talks"><a href="https://www.touchstonemag.com/archives/author.php?id=75">&#9658; Articles from this speaker in <em>Touchstone</em>.</a></p>
             </div>
             <div class="col-sm-4">
                <p class="speaker">Anthony Esolen</p>
                <p class="author-intro">is a professor at Magdalen College of the Liberal Arts in Warner, New Hampshire, and the author of many books, including <em>Life Under Compulsion</em> (ISI Books), <em>Real Music: A Guide to the Timeless Hymns of the Church</em> (Tan, with a CD), <em>Out of the Ashes: Rebuilding American Culture</em> (Regnery), and <em>The Hundredfold: Songs for the Lord</em> (Ignatius Press, 2019). He has also translated Dante's <em>Divine Comedy </em>(Random House). He is a senior editor of <em>Touchstone.</em></p>
                 <p class="past-talks"><a href="https://www.touchstonemag.com/conferences/no-option-anthony-esolen.php">&#9658; Talks from past <em>Touchstone </em> conferences.</a></p>
+                <p class="past-talks"><a href="https://www.touchstonemag.com/archives/author.php?id=108">&#9658; Articles from this speaker in <em>Touchstone</em>.</a></p>
             </div>
             <div class="col-sm-2"></div>
         </div>
@@ -129,6 +132,7 @@
                 <p class="speaker">S. M. Hutchens</p>   
                 <p class="author-intro">served as a reference librarian for twenty years, retiring in 2015 to become <em>Touchstone</em>'s book review editor. He has been Chairman of the Fellowship of Saint James and is a senior editor of <em>Touchstone, </em>in which most of his writing appears.  He has also published essays and reviews in <em>The New Oxford Review, The Congregationalist, The Southern Baptist Journal of Theology, The Religion and Society Report, The Evangelical Catholic, Sursum Corda, Books and Culture, </em>and <em>The New Atlantis.</em> He and his wife Mary live near Racine, Wisconsin, and have two daughters.</em></p>
                 <p class="past-talks"><a href="https://www.touchstonemag.com/conferences/the-benedicine-preacher-s-m-hutchens.php">&#9658; Talks from past <em>Touchstone </em> conferences.</a></p>
+                <p class="past-talks"><a href="https://www.touchstonemag.com/archives/author.php?id=37">&#9658; Articles from this speaker in <em>Touchstone</em>.</a></p>
             </div>
             <div class="col-sm-4">
                <p class="speaker">Peter J. Leithart</p>
