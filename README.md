@@ -4,22 +4,19 @@ ts-conference-code
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Purpose](#purpose)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+The homepage for the 2021 Touchstone conference.
 	
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* Bootstrap: 5
 	
-## Setup
-To run this project, install it locally using npm:
+## Purpose
+* Informational
+* Links to ticket sales
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+https://github.com/githubbjar/conference.git
 ```
