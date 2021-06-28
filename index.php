@@ -273,7 +273,7 @@
                           <th scope="row">N/A&#8212;Virtual Access</th>
                           <td>$100</td>
                           <td>October 16</td>
-                          <td>Live-streaming access / all sessions</td>
+                          <td>Live-streaming access / entire conference</td>
                         </tr>
                       </tbody>
                     </table>
