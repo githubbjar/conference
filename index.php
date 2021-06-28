@@ -137,7 +137,7 @@
             <div class="col-sm-4">
                <p class="speaker">Peter J. Leithart</p>
                <p class="author-intro">is President of the Theopolis Institute in Birmingham, Alabama, and serves as Teacher at Trinity Presbyterian Church (CREC) in Birmingham. He is author, most recently, of <em>Baptism </em>(Lexham, 2021). He and his wife Noel have ten children and fifteen grandchildren. He is a contributing editor of <em>Touchstone.</em></p>
-               <p class="past-talks"><a href="https://www.touchstonemag.com/archives/author.php?id=39">&#9658; Articles from <em>Touchstone</em>.</a></p>
+               <p class="past-talks"><a href="https://www.touchstonemag.com/archives/author.php?id=39">&#9658; Articles from this speaker in <em>Touchstone</em>.</a></p>
             </div>
             <div class="col-sm-2"></div>
         </div>
