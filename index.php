@@ -96,6 +96,7 @@
             <div class="col-sm-4">
                <p class="speaker">Hans Boersma</p> 
                <p class="author-intro">is the Saint Benedict Servants of Christ Chair in Ascetical Theology at Nashotah House Theological Seminary, Wisconsin. His work centers upon the retrieval of a sacramental ontology. His books include <em>Heavenly Participation: The Weaving of a Sacramental Tapestry</em> and, most recently, <em>Five Things Theologians Wish Biblical Scholars Knew. </em>Hans and his wife Linda have five children and thirteen grandchildren. He is a Deacon in the Anglican Church in North America and a contributing editor of <em>Touchstone.</em></p>
+               <p class="past-talks"><a href="https://www.touchstonemag.com/archives/author.php?id=339">&#9658; Articles from <em>Touchstone</em>.</a></p>
             </div>
             <div class="col-sm-4">
                 <p class="speaker">Allan Carlson</p>   
@@ -132,6 +133,7 @@
             <div class="col-sm-4">
                <p class="speaker">Peter J. Leithart</p>
                <p class="author-intro">is President of the Theopolis Institute in Birmingham, Alabama, and serves as Teacher at Trinity Presbyterian Church (CREC) in Birmingham. He is author, most recently, of <em>Baptism </em>(Lexham, 2021). He and his wife Noel have ten children and fifteen grandchildren. He is a contributing editor of <em>Touchstone.</em></p>
+               <p class="past-talks"><a href="https://www.touchstonemag.com/archives/author.php?id=39">&#9658; Articles from <em>Touchstone</em>.</a></p>
             </div>
             <div class="col-sm-2"></div>
         </div>
@@ -141,6 +143,7 @@
             <div class="col-sm-4">
                     <p class="speaker">Carl Trueman</p>   
                     <p class="author-intro">(PhD, University of Aberdeen) is professor of biblical and religious studies at Grove City College. He previously served as the William E. Simon Visiting Fellow in Religion and Public Life at Princeton University. Trueman has authored or edited more than a dozen books, including <em>The Creedal Imperative; Luther on the Christian Life;</em> and <em>The Rise and Triumph of the Modern Self.</em></p>
+                    <p class="past-talks"><a href="https://www.touchstonemag.com/archives/article.php?id=34-04-043-b">&#9658; Review of <em>The Rise &amp; Triumph of the Modern Self</em> from <em>Touchstone</em></a></p>
                 </div>
             <div class="col-sm-4"></div>
         </div>
