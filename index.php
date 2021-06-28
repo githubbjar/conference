@@ -79,7 +79,8 @@
             </div>        
             <div class="col-sm-6">
                 <br />
-                   <center><div class="fb-like" data-href="https://www.touchstonemag.com/conference/index.php" data-width="200" data-layout="standard" data-action="like" data-size="small" data-share="true"></div></center>
+                   <center><div class="fb-like" data-href="https://www.touchstonemag.com/conference/index.php" data-width="200" data-layout="standard" data-action="like" data-size="small" data-share="true"></div>
+                   <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
                 <a href="https://www.touchstonemag.com/newimages/_conf.jpg" target="_blank" ><img src="https://www.touchstonemag.com/newimages/_conf.jpg" class="poster" /></a>
             </div>
         </div>
