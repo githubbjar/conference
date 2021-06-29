@@ -1,0 +1,219 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    font-family: 'Lora', serif;
+    background-color: #E4E4E4;
+}
+
+.bg-dark {
+    background-color: #fff;
+}
+
+h1 {
+    font-size: 4.5rem;
+    color: #2a465c;
+    margin-top: 20px;
+    padding-top: 50px;
+    line-height: 4.5rem;
+    border-top-width: thin;
+    border-top-style: dotted;
+    border-top-color: #9f4420;
+}
+
+a {
+    color: #9f4420;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #2a465c;
+}
+
+h2 {
+    font-size: 1.8rem;
+    font-style: italic;
+}
+
+h3 {
+    font-size: 1.5rem;
+    color: #9f4420;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 100px;
+    margin-top: -40px;
+}
+
+.dropdown-menu {
+    font-size: 1.2rem;
+}
+
+img.poster {
+    margin: auto;
+    display: block;
+    width: 90%;
+    margin-top: 30px;
+}
+
+.navbar-nav > li > .dropdown-menu { 
+    background-color: #2a465c; 
+    border: none;
+    font-family: 'Lora', serif;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    font-size: 1.5rem;
+}
+
+.dropdown-item, .nav-link {
+    color: #FFF;
+}
+
+.nav-link {
+    font-size: 1.7rem;
+    margin-top: 20px;
+}    
+
+p.date {
+    font-size: 1.3rem;
+    margin-top: 20px;
+    width: "100%";
+}
+
+.speaker {
+    font-size: 1.8rem;
+    padding-top: 20px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;    
+    color: #2a465c; 
+    text-align: left;
+    border-top-width: thin;
+    border-top-style: dotted;
+    border-top-color: #9f4420;
+}
+
+.trinity {
+    font-size: 1.8rem;
+    padding-top: 20px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;    
+    color: #2a465c; 
+    text-align: center;
+    border-top-width: thin;
+    border-top-style: dotted;
+    border-top-color: #9f4420;
+}
+
+p.author-intro {
+    font-size: 1.3rem;
+    line-height: 2.2rem;
+    text-align: left;
+}
+
+p.trinity-address {
+    font-size: 1.3rem;
+    line-height: 2.2rem;
+    text-align: center;
+}
+
+p.ticket-info {
+    font-size: 1.3rem;
+    line-height: 2.2rem;
+    text-align: center;
+}
+
+p.past-talks a {
+    font-size: 1rem;
+    text-align: left;
+    color: #9f4420;;
+}
+
+p.intro {
+    font-size: 1.2rem;
+    line-height: 2.2rem;
+    text-align: center;
+    width: 70%;
+    margin-bottom: 25px;
+}
+
+.btn-light {
+    margin-right: 25px;
+    margin-top: 20px;
+    color: #9f4420;
+}
+.copy-box {
+    background-color: #FFF;
+}
+
+.row {
+    background-color: #FFF;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #2a465c;
+    border-color: #2a465c;
+}
+
+
+
+
+
+
+
+
+
+#ts-footer-box {
+	background-color: #2a465c;
+	padding: 20px 35px 20px 35px;
+	margin-top: 15px;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #eee;
+}
+
+#ts-footer-box p, #ts-footer-box a {
+    color: #fff;
+}
+
+p.footer-title {
+	color: #fff;
+	font-variant: small-caps;
+	letter-spacing: 2px;
+	font-size: 22px;
+	text-decoration: underline;
+}
+
+#ts-footer-box li {
+    color: #fff;
+    margin-top: 9px;
+}
+
+#fsj-box {
+    background-color: #000;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#fsj-box p {
+    text-align: center;
+    color: #FFF;
+}
+
+#fsj-box a {
+    color: #FFF;
+}
+
+/* adjust facebook buttons down 1 pixel */
+
+._51mz {
+    margin-top: 1px;
+}
