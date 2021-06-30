@@ -233,7 +233,7 @@
                               <a class="btn btn-primary btn-sm" href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=9">Buy</a>
                               Super Early Bird Rate</th>
                           <td>$179</td>
-                          <td>July 2</td>
+                          <td>July 16</td>
                           <td>Full access / meals / entire conference</td>
                         </tr>  
                         <tr>
