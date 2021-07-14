@@ -237,7 +237,7 @@
                           <td>Full access / meals / entire conference</td>
                         </tr>  
                         <tr>
-                          <th scope="row">N/A&#8212;Early Bird Rate</th>
+                          <th scope="row"><!--<a class="btn btn-primary btn-sm" href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=13">Buy</a>-->N/A&#8212;Early Bird Rate</th>
                           <td>$199</td>
                           <td>September 30</td>
                           <td>Full access / meals / entire conference</td>
