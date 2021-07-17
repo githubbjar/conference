@@ -205,9 +205,9 @@
                 
                 <center>
                     
-                    <p class="ticket-info">Super Early Bird Rate now available! <br />Only $179 per person for entire access to the conference. Save $70!</p>
-                    <a type="button" class="btn btn-primary btn-lg" href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=9" >Register at Super Early Bird Rate!</a>
-                    <p class="ticket-info"><br />Ticket pricing breakdown below.<br /><em>NOTE: Super Early Bird &amp; Student Rate registrations cannot be completed in the same transaction. <br />Please register students at the Student Rate separately.</em></p>
+                    <p class="ticket-info">Early Bird Rate now available! <br />Only $199 per person for entire access to the conference. Save $50!</p>
+                    <a type="button" class="btn btn-primary btn-lg" href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=9" >Register at Early Bird Rate!</a>
+                    <p class="ticket-info"><br />Ticket pricing breakdown below.<br /><em>NOTE: Early Bird &amp; Student Rate registrations cannot be completed in the same transaction. <br />Please register students at the Student Rate separately.</em></p>
                 </center>
                 
             </div>
@@ -228,16 +228,16 @@
                         </tr>
                       </thead>
                       <tbody>
-                        <tr>
+                        <!--<tr>
                           <th scope="row">
                               <a class="btn btn-primary btn-sm" href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=9">Buy</a>
                               Super Early Bird Rate</th>
                           <td>$179</td>
                           <td>July 16</td>
                           <td>Full access / meals / entire conference</td>
-                        </tr>  
+                        </tr> --> 
                         <tr>
-                          <th scope="row"><!--<a class="btn btn-primary btn-sm" href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=13">Buy</a>-->N/A&#8212;Early Bird Rate</th>
+                          <th scope="row"><a class="btn btn-primary btn-sm" href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=13">Buy</a> Early Bird Rate</th>
                           <td>$199</td>
                           <td>September 30</td>
                           <td>Full access / meals / entire conference</td>
