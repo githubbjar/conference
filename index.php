@@ -206,7 +206,7 @@
                 <center>
                     
                     <p class="ticket-info">Early Bird Rate now available! <br />Only $199 per person for entire access to the conference. Save $50!</p>
-                    <a type="button" class="btn btn-primary btn-lg" href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=9" >Register at Early Bird Rate!</a>
+                    <a type="button" class="btn btn-primary btn-lg" href="ttps://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=13" >Register at Early Bird Rate!</a>
                     <p class="ticket-info"><br />Ticket pricing breakdown below.<br /><em>NOTE: Early Bird &amp; Student Rate registrations cannot be completed in the same transaction. <br />Please register students at the Student Rate separately.</em></p>
                 </center>
                 
