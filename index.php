@@ -57,7 +57,7 @@
         
       </ul>
       <form class="d-flex">
-        <a class="btn btn-light" href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=9">Register at Super Early Bird Rate!</a>
+        <a class="btn btn-light" href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=13">Register at the Early Bird Rate!</a>
       </form>
     </div>
   </div>
