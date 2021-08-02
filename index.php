@@ -67,7 +67,7 @@
             <div class="col-sm-6 copy-box">
                 <center>
                     <p class="date"><big><strong>October 14&ndash;16</strong></big><br />
-                    Trinity International University&#8212;Deerfield, Illinois</p>
+                    Trinity International University&#8212;Deerfield, IL</p>
                     <h1>No Neutral Ground</h1>
                     <h2>The Cost of Discipleship in a Secular Age</h2>
                     
@@ -192,7 +192,7 @@
                 
                 <p class="ticket-info"><strong><big>La Quinta Inn &amp; Suites by Wyndham</big></strong><br />
                     2000 Lakeside Drive<br /> 
-                    Bannockburn, Illinois 60015<br />
+                    Bannockburn, IL 60015<br />
                     1-847-317-7300</p>
                 
             </div>
