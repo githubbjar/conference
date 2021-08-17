@@ -124,7 +124,7 @@
             </div>
             <div class="col-sm-4">
                <p class="speaker">Anthony Esolen</p>
-               <p class="author-intro">is a professor at Magdalen College of the Liberal Arts in Warner, New Hampshire, and the author of many books, including <em>Life Under Compulsion</em> (ISI Books), <em>Real Music: A Guide to the Timeless Hymns of the Church</em> (Tan, with a CD), <em>Out of the Ashes: Rebuilding American Culture</em> (Regnery), and <em>The Hundredfold: Songs for the Lord</em> (Ignatius Press, 2019). He has also translated Dante's <em>Divine Comedy </em>(Random House). He is a senior editor of <em>Touchstone.</em></p>
+               <p class="author-intro">is a professor and writer-in-residence at Magdalene College of the Liberal Arts in Warner, New Hampshire. His many books include <em>Sex in the Unreal City: The Demolition of the Western Mind, Life Under Compulsion: Ten Ways to Destroy the Humanity of Your Child, Out of the Ashes: Rebuilding American Culture, </em>and <em>The Hundredfold: Songs for the Lord.</em> He is a regular contributor to <em>Chronicles, Crisis Magazine, The Claremont Review, Inside the Vatican Things, The Catholic Thing,</em> and <em>American Greatness.</em> He has translated Dante’s <em>Divine Comedy.</em> He is a Roman Catholic and lives with his wife in New Hampshire. He is a senior editor of <em>Touchstone.</em></p>
                 <p class="past-talks"><a href="https://www.touchstonemag.com/conferences/no-option-anthony-esolen.php">&#9658; Talks from past <em>Touchstone </em> conferences.</a></p>
                 <p class="past-talks"><a href="https://www.touchstonemag.com/archives/author.php?id=108">&#9658; Articles from this speaker in <em>Touchstone</em>.</a></p>
             </div>
