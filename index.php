@@ -150,13 +150,17 @@
         </div>
         
         <div class="row">
-            <div class="col-sm-4"></div>
+            <div class="col-sm-2"></div>
+            <div class="col-sm-4">
+                <p class="speaker">Patrick Henry Reardon</p>
+                <p class="author-intro">is a retired pastor in the Orthodox Church who resides in Chicago with his wife Denise. Educated many decades ago at Southern Baptist Theological Seminary in Louisville, St Anselm's College and the Pontifical Biblical Institute in Rome, and St. Tikhon's Orthodox Seminary in South Canaan, PA, he taught at several colleges and two seminaries over the years and pastored congregations in Florida, Oklahoma, Pennsylvania, and Illinois. He has published eleven books and numerous articles, reviews, and editorials in several journals. He is the author of numerous books, including, most recently, <em>Out of Step with God: Orthodox Christian Reflections on the Book of Numbers </em>(Ancient Faith Publishing, 2019).</p>
+            </div>
             <div class="col-sm-4">
                     <p class="speaker">Carl Trueman</p>   
                     <p class="author-intro">(PhD, University of Aberdeen) is professor of biblical and religious studies at Grove City College. He previously served as the William E. Simon Visiting Fellow in Religion and Public Life at Princeton University. Trueman has authored or edited more than a dozen books, including <em>The Creedal Imperative; Luther on the Christian Life;</em> and <em>The Rise and Triumph of the Modern Self.</em></p>
                     <p class="past-talks"><a href="https://www.touchstonemag.com/archives/article.php?id=34-04-043-b">&#9658; Review of <em>The Rise &amp; Triumph of the Modern Self</em> from <em>Touchstone</em></a></p>
                 </div>
-            <div class="col-sm-4"></div>
+            <div class="col-sm-2"></div>
         </div>
         <div class="row">
             <div class="col-sm-2"></div>
