@@ -129,7 +129,8 @@ p.ticket-info {
 p.past-talks a {
     font-size: 1rem;
     text-align: left;
-    color: #9f4420;;
+    color: #9f4420;
+    z-index: 999;
 }
 
 p.intro {
