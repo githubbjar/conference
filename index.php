@@ -92,7 +92,6 @@
         <div class="row">
             <div class="col-sm-12">
                 <h3 id="speakers">&#8212; Speakers &#8212;</h3>
-                <p class="ticket-info"><em>More speakers to be confirmed. Check back soon!</em></p>
             </div>
         </div>
     
