@@ -285,7 +285,7 @@
                           <td>Access to single day / no meals</td>
                         </tr>
                         <tr>
-                          <th scope="row">N/A&#8212;Virtual Access</th>
+                          <th scope="row"><a class="btn btn-primary btn-sm" href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=20">Buy</a> Virtual Access</th>
                           <td>$100</td>
                           <td>October 16</td>
                           <td>Live-streaming access / entire conference</td>
