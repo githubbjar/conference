@@ -267,19 +267,19 @@
                           <td>Full access / meals / entire conference</td>
                         </tr>
                         <tr>
-                          <th scope="row">N/A&#8212;Thursday Only</th>
+                          <th scope="row"><a class="btn btn-primary btn-sm" href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=17">Buy</a> Thursday Only</th>
                           <td>$75</td>
                           <td>October 14</td>
                           <td>Access to single day / no meals</td>
                         </tr>
                         <tr>
-                          <th scope="row">N/A&#8212;Friday Only</th>
+                          <th scope="row"><a class="btn btn-primary btn-sm" href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=19">Buy</a> Friday Only</th>
                           <td>$150</td>
                           <td>October 15</td>
                           <td>Access to single day / no meals</td>
                         </tr>
                         <tr>
-                          <th scope="row">N/A&#8212;Saturday Only</th>
+                          <th scope="row"><a class="btn btn-primary btn-sm" href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=18">Buy</a> Saturday Only</th>
                           <td>$75</td>
                           <td>October 16</td>
                           <td>Access to single day / no meals</td>
