@@ -214,9 +214,9 @@
                 
                 <center>
                     
-                    <p class="ticket-info">Early Bird Rate now available! <br />Only $199 per person for entire access to the conference. Save $50!</p>
-                    <a type="button" class="btn btn-primary btn-lg" href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=13" >Register at Early Bird Rate!</a>
-                    <p class="ticket-info"><br />Ticket pricing breakdown below.<br /><em>NOTE: Early Bird &amp; Student Rate registrations cannot be completed in the same transaction. <br />Please register students at the Student Rate separately.</em></p>
+                    <p class="ticket-info">$249 per person for entire access to the conference.</p>
+                    <a type="button" class="btn btn-primary btn-lg" href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=16" >Register today!</a>
+                    <p class="ticket-info"><br />Ticket pricing breakdown below.<br /><em>NOTE: Regular Rate &amp; Student Rate registrations cannot be completed in the same transaction. <br />Please register students at the Student Rate separately.</em></p>
                 </center>
                 
             </div>
@@ -245,14 +245,14 @@
                           <td>July 16</td>
                           <td>Full access / meals / entire conference</td>
                         </tr> --> 
-                        <tr>
+                        <!--<tr>
                           <th scope="row"><a class="btn btn-primary btn-sm" href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=13">Buy</a> Early Bird Rate</th>
                           <td>$199</td>
                           <td>September 30</td>
                           <td>Full access / meals / entire conference</td>
-                        </tr>
+                        </tr>-->
                         <tr>
-                          <th scope="row">N/A&#8212;Regular Rate</th>
+                          <th scope="row"><a class="btn btn-primary btn-sm" href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=16">Buy</a> Regular Rate</th>
                           <td>$249</td>
                           <td>October 15</td>
                           <td>Full access / meals / entire conference</td>
