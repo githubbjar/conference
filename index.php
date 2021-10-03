@@ -197,13 +197,14 @@
             <div class="col-sm-2"></div>
             <div class="col-sm-8">
                 
-                <p class="ticket-info">There are a limited number of rooms discounted for <em>Touchstone </em>conference attendees at the <a href="https://www.wyndhamhotels.com/laquinta/bannockburn-illinois/la-quinta-bannockburn-deerfield/overview" target="_blank">La Quinta</a> directly adjacent to Trinity International University. Call and mention the <em>Touchstone </em> conference to reserve your room.</p>
-                
-                <p class="ticket-info"><strong><big>La Quinta Inn &amp; Suites by Wyndham</big></strong><br />
-                    2000 Lakeside Drive<br /> 
-                    Bannockburn, IL 60015<br />
-                    1-847-317-7300</p>
-                
+            <p class="ticket-info"><em>Rooms at the nearby La Quinta Inn have sold out but you can still book rooms at our conference rate at the following hotels:</em></p>
+            <blockquote>
+            <p class="ticket-info"><strong>Homewood Suites </strong>($119/night)<br />
+            This hotel is a short walk from Olson Chapel. Call 847-945-9300 and let them know that you want to book a room for the Touchstone conference.
+
+            <p class="ticket-info"><strong>Hampton Inn </strong>($92/night)</br />
+            The Hampton Inn is a five minute drive from the Olson Chapel. Please call 847-478-1400 and request a room for the <em>Touchstone</em> conference (booking code: TMC), or you can book your room online by clicking <a href="https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=LINHSHX&arrivalDate=2021-10-14&departureDate=2021-10-16&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink" target="_blank">here</a>.
+            </blockquote>    
             </div>
             <div class="col-sm-2"></div>
         </div>
