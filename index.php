@@ -307,7 +307,7 @@
             <div class="col-sm-2"></div>
             <div class="col-sm-8">
 
-                <center><p class="ticket-info"><img src="program-thumbnail.jpg" width="250px" /></p></center>
+                <center><p class="ticket-info"><br /><a href="2021TouchstoneConferenceProgram.pdf"><img src="program-thumbnail.jpg" width="250px" /></a></p></center>
                 
                 <p class="ticket-info">&#8226; Please click the thumbnail above to view a pdf of the program. </p>
 
