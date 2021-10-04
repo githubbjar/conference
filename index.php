@@ -306,8 +306,12 @@
         <div class="row">
             <div class="col-sm-2"></div>
             <div class="col-sm-8">
+
+                <center><p class="ticket-info"><img src="program-thumbnail.jpg" width="250px" /></p></center>
                 
-                <p class="ticket-info">&#8226; Registration opens at 4 p.m. on  Thursday, the 14th, and the conference should be all wrapped up by 11:30 a.m. on Saturday the 16th. <br /><em>A more complete program schedule will be posted online when it becomes available.</em></p>
+                <p class="ticket-info">&#8226; Please click the thumbnail above to view a pdf of the program. </p>
+
+                <p class="ticket-info">&#8226; Registration opens at 4 p.m. on  Thursday, the 14th, and the conference should be all wrapped up by 11:30 a.m. on Saturday the 16th.</p>
                 
             </div>
             <div class="col-sm-2"></div>
