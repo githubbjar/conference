@@ -172,7 +172,7 @@
                 <center>
                 <p class="trinity">Trinity International University</p>
                 <p class="trinity-address" >2065 Half Day Road, Deerfield, IL 60015</p>
-                <p class="trinity-address">[ <a href="trinityMap.pdf">click for pdf of campus map</a> ]
+                <p class="trinity-address">[ <a href="trinityMap.pdf">download detailed campus map, complete with walking paths, parking information, building locations.</a> ]
                 </center>
             </div>
             <div class="col-sm-2"></div>
