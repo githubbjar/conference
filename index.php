@@ -8,7 +8,8 @@
     		session_start();
     		$_SESSION['username'] = $username;
             $collapse = "collapse show";
-    		$landingText = '<center><h3 id="about">The 2021 <em>Touchstone</em> Conference</h3><p class="intro">Welcome, '. $username .', we are glad you are joining us!</p>
+    		$landingText = '<center><h3 id="about">The 2021 <em>Touchstone</em> Conference</h3>
+            <p class="intro">Please enter the login credentials that have been emailed to you below. If you have not received instructions, please email conference@touchstonemag.com for assistance. If you would like to register for livestreaming, <a href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=20">click here</a>.</p><p class="intro">Welcome, '. $username .', we are glad you are joining us!</p>
     		<a type="button" class="btn btn-primary btn-lg" href="https://www.youtube.com/playlist?list=PL0Ctn8Z_Aah-iuc-QDBYqBBLRKY4hmDgH">Proceed to videos</a><br /><br />
             <p class="intro"><a href="https://www.touchstonemag.com/archives/logout.php">Logout</a></p>
             <p class="intro">Please note: As a livestream attendee, you will also have access to the talks when they are posted on the <em>Touchstone </em>website in the coming weeks.</p><br /><br /><br /></center>';
