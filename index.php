@@ -9,7 +9,9 @@
     		$_SESSION['username'] = $username;
             $collapse = "collapse show";
     		$landingText = '<center><h3 id="about">The 2021 <em>Touchstone</em> Conference</h3><p class="intro">Welcome, '. $username .', we are glad you are joining us!</p>
-    		<a type="button" class="btn btn-primary btn-lg" href="https://www.youtube.com/playlist?list=PL0Ctn8Z_Aah-iuc-QDBYqBBLRKY4hmDgH">Proceed to videos</a><br /><br /><p class="intro">Please note: As a livestream attendee, you will also have access to the talks when they are posted on the <em>Touchstone </em>website in the coming weeks.</p><br /><br /><br /></center>';
+    		<a type="button" class="btn btn-primary btn-lg" href="https://www.youtube.com/playlist?list=PL0Ctn8Z_Aah-iuc-QDBYqBBLRKY4hmDgH">Proceed to videos</a><br /><br />
+            <p class="intro"><a href="https://www.touchstonemag.com/archives/logout.php">Logout</a></p>
+            <p class="intro">Please note: As a livestream attendee, you will also have access to the talks when they are posted on the <em>Touchstone </em>website in the coming weeks.</p><br /><br /><br /></center>';
     	    } else {
                 header("Location: https://www.touchstonemag.com/archives/login/login-fail.php");
         };	
