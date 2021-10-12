@@ -103,7 +103,7 @@
                     echo '
                     <h3 id="about">&#8212; Livestream Login &#8212;</h3>
 
-                    <p class="intro">Please enter the login credentials that have been emailed to you below. If you have not received instructions, please email conference@touchstonemag.com for assistance. If you would like to register for livestreaming, <a href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=20">click here</a>.</p>
+                    <center><p class="intro">Please enter the login credentials that have been emailed to you below. If you have not received instructions, please email conference@touchstonemag.com for assistance. If you would like to register for livestreaming, <a href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=20">click here</a>.</p></center>
                     
                     <form name="form1" method="post" action="index.php">
                         <div class="form-group">
