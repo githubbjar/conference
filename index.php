@@ -1,3 +1,20 @@
+<?php
+    include "../archives/_viewUtilities.php";
+    if (isset($_POST['submit'])) {
+        $username = $_POST['username'];
+        $password = $_POST['password'];
+        $collapse = "collapse";
+        if (streamingLogin($username,$password)) {
+    		session_start();
+    		$_SESSION['username'] = $username;
+            $collapse = "collapse show";
+    		$landingText = '<center><h3 id="about">The 2021 <em>Touchstone</em> Conference</h3><p class="intro">Welcome, '. $username .', we are glad you are joining us!</p>
+    		<a type="button" class="btn btn-primary btn-lg" href="https://www.youtube.com/playlist?list=PL0Ctn8Z_Aah-iuc-QDBYqBBLRKY4hmDgH">Proceed to videos</a><br /><br /><p class="intro">Please note: As a livestream attendee, you will also have access to the talks when they are posted on the <em>Touchstone </em>website in the coming weeks.</p><br /><br /><br /></center>';
+    	    } else {
+                header("Location: https://www.touchstonemag.com/archives/login/login-fail.php");
+        };	
+    };
+?>
 <!doctype html>
 <html lang="en">
   <head>
@@ -57,12 +74,68 @@
         
       </ul>
       <form class="d-flex">
-        <a class="btn btn-light" href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=13">Register today!</a>
+        <a class="btn btn-light" data-bs-toggle="collapse" href="#collapseExample" role ="button" aria-expanded="false" aria-controls="collapseExample">Livestream Login</a>
       </form>
     </div>
   </div>
 </nav>
     <div class="container">
+    <div class="
+        <?php 
+            if ($_SESSION['username']) {
+             echo "collapse show";   
+            } else {
+              echo "collapse";  
+            };
+        ?>
+        collapse" id="collapseExample">
+            <div class="row">
+                <div class="col-sm-3"></div>
+                <div class="col-sm-6">
+                <?php 
+                echo $landingText;
+                
+                if (!$_SESSION['username']) {
+                
+                    echo '
+                    <h3 id="about">&#8212; Livestream Login &#8212;</h3>
+                    
+                    <form name="form1" method="post" action="index.php">
+                        <div class="form-group">
+    						<p class="date">Email</p>
+                            <input  name="username" 
+                                    type="text" 
+                                    type="email" 
+                                    class="form-control" 
+                                    id="exampleInputEmail1" 
+                                    aria-describedby="emailHelp" 
+                                    placeholder="Enter your email address"
+                            >
+                            <small id="emailHelp" class="form-text text-muted">
+                            </small>
+                        </div>  
+                        <div class="form-group">
+                            <p class="date">Password</p>
+                            <input  input name="password" 
+                                    type="text" 
+                                    type="password" 
+                                    class="form-control" 
+                                    id="exampleInputPassword1" 
+                                    placeholder="Enter your password"
+                            >
+                        </div>
+                        <center>
+                        <br /><br />
+                        <button class="btn btn-primary" name="submit" type="submit" id="submit" value="Log In">Submit</button>
+                        </center>
+                    </form>
+                    <br /><br />'; 
+                    
+                }; ?>
+                </div>
+                <div class="col-sm-3"></div>
+            </div>
+        </div>
         <div class="row">
             <div class="col-sm-6 copy-box">
                 <center>
